@@ -1,0 +1,14 @@
+# Core dependencies
+structlog>=21.5.0
+typing-extensions>=4.5.0
+python-dateutil>=2.8.2
+
+# Development dependencies
+pytest>=6.0
+pytest-cov>=2.12
+black>=21.5b2
+isort>=5.9.3
+mypy>=0.910
+flake8>=3.9.2
+setuptools>=42
+wheel>=0.37.0 
