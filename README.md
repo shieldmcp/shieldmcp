@@ -171,7 +171,7 @@ config = RateLimitConfig(
 ```bash
 # Clone the repository
 git clone https://github.com/shieldmcp/shieldmcp.git
-cd modelShield
+cd shieldmcp
 
 # Create virtual environment
 python -m venv venv
